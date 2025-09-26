@@ -1,6 +1,8 @@
 # 💫 About Our Team:
 At the moment, we are a two-person team working together on various projects, learning collaboratively and sharing knowledge with each other.
 
+<sub>We are currently working on a major project. It involves an application for organising meetings, but that's all we can reveal for now.</sub>
+
 ---
 
 # 💻 Tech Stack:
